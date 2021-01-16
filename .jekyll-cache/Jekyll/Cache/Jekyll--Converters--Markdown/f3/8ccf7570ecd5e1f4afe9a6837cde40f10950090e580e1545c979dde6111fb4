@@ -1,0 +1,14 @@
+I"�<h1 id="github-page-customization">Github Page Customization</h1>
+
+<hr />
+<h2 id="creating-category-page">Creating Category Page</h2>
+
+<p>This is current page section</p>
+
+<p align="center">
+<img align="center" height="400" src="img\posts\githubpage\post1/posts_current.png" />
+</p>
+
+<p>Even if these posts are in different categories (“Github Tutorial”, “Github page”), they will be ordered in chronologocal order.</p>
+<hr />
+:ET

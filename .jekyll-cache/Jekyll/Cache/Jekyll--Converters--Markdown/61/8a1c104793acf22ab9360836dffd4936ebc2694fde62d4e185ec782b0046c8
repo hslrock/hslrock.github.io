@@ -1,0 +1,66 @@
+I"�<p>/img/githubpage</p>
+<p>&lt;a href=f”“&gt;test&lt;/a&gt;</p>
+
+<p>Git Hub Page Tutorial 01</p>
+
+<h1 id="github-page-customization">Github Page Customization</h1>
+
+<hr />
+<h2 id="bcreate-a-github-pageb">&lt;/b&gt;Create a Github Page&lt;/b&gt;</h2>
+
+<p>We will skip creating Github page tutorial and installing Jekyll theme as there are already many available contents in Google</p>
+
+<p>I am going to use <a> https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll </a> for the tutorial.</p>
+
+<p>Please follow the instructions on the above Github repository for installation</p>
+
+<p>Below shows the preview of the vanilla page</p>
+
+<p align="center">
+<img align="center" height="400" src="/img/posts/githubpage/screenshot.png" />
+</p>
+
+<hr />
+<h2 id="bstarting-with-basic-initializationb">&lt;/b&gt;Starting with basic Initialization&lt;/b&gt;</h2>
+
+<p>The first thing you will do is change the name of the blog or change the image and delete some pseudo-posts</p>
+
+<p>Former is simple, you just delete files under _posts tab and change the contents in config.yml.</p>
+
+<p>Next, I deleted some of the contents in _layout/home.html, and changed background img</p>
+
+<p align="center">
+<img align="center" height="400" src="/img/posts/githubpage/home_html.png" />
+</p>
+
+<p>Now my main page looks like this:</p>
+
+<p align="center">
+<img align="center" height="400" src="/img/posts/githubpage/start.png" />
+</p>
+
+<p>I am planning to put my own feature into the main page later.</p>
+
+<hr />
+
+<h2 id="badding-additional-linkb">&lt;/b&gt;Adding additional Link&lt;/b&gt;</h2>
+
+<p>I would like to add additional content at top bar that links to my Github.</p>
+
+<p>Under _includes, there is a file named “navbar”.html</p>
+
+<p><img align="center" height="400" src="/img/posts/githubpage/navbar_.png" /></p>
+
+<p>Add</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+&lt;li class="nav-item"&gt;
+&lt;a class="nav-link" href="https://github.com/hslrock"&gt;Github&lt;/a&gt;
+&lt;/li&gt;
+
+</code></pre></div></div>
+<p>in amy position. The result will be:</p>
+
+<p><img align="center" height="50" src="/img/posts/githubpage/navbar.png" /></p>
+
+<p>Next we will discuss the organizing the posts into different categories</p>
+:ET

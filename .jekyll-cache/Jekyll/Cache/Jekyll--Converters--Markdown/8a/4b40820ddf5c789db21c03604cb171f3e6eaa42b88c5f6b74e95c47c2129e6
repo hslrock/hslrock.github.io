@@ -1,15 +1,12 @@
-<hr />
-<p>layout: post
-title: “Git Hub Tutorial 01”
-subtitle: “Introduction to GitHub and basic CLI”
-date: 2020-12-29 24:00:00 -0400
-background: ‘/img/posts/01.jpg’
-—</p>
-
+I"�<head>
+  <style>
+    a { color: #FF0000; } /* CSS link color */
+  </style>
+</head>
 <h1 id="github-guide-command-line-interface">GitHub Guide (Command Line Interface)</h1>
 
 <hr />
-## <b>Why Do we Use Github  </b>
+<h2 id="why-do-we-use-github--"><b>Why Do we Use Github  </b></h2>
 
 <ul>
 <li>Version Management</li>
@@ -22,8 +19,8 @@ background: ‘/img/posts/01.jpg’
 <ul>
 <li> Git is a source code version management system for easy time travel, Github provides project hosting spot. In other words, it is a cloud-drive system
 <li> By 2020, March, there are over 128 million public repositories 
-<a href="https://towardsdatascience.com/githubs-path-to-128m-public-repositories-f6f656ab56b1#:~:text=There%20are%20over%20128%20m
-illion%20public%20repositories%20on%20GitHub/" style="color:#D1A197;">GitHub’s Path to 128M Public Repositories</a>
+<a href="https://towardsdatascience.com/githubs-path-to-128m-public-repositories-f6f656ab56b1#:~:text=There%20are%20over%20128%20million%20public%20repositories%20on%20GitHub/">GitHub’s Path to 128M Public Repositories</a>
+
 
 ## <b>Registering Github </b>
 
@@ -159,3 +156,4 @@ The previous folder will not know its change. To update the previous folder. You
 
 These were basic command for CLI
 </RepositoryName></UserName></RepositoryName></UserName></RepositoryName></UserName></Commit></li></li></ul></li></ul></ul>
+:ET

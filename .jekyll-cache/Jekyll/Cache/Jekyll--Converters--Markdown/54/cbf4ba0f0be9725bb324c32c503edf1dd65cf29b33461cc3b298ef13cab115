@@ -1,0 +1,18 @@
+I"�<h1 id="github-page-customization">Github Page Customization</h1>
+
+<hr />
+<h2 id="creating-category-page">Creating Category Page</h2>
+
+<p>This is the image of vanilla page section</p>
+
+<p align="center">
+<img align="center" height="400" src="/img/posts/githubpage/post1/posts_current.png" />
+</p>
+
+<p>Even if these posts are in different categories (“Github Tutorial”, “Github page”), they will be shown together
+I want to separate them into different folders</p>
+
+<p>From navigation tap, duplicate posts folder and name it as categories. This will create a page called categories, and it can be accessed through https://your_link/categories.</p>
+<hr />
+
+:ET
